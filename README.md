@@ -2,16 +2,20 @@
 
 Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss. 
 
-My major interest is combining Technology with Finance and Business. Specifically I have been developing programs and writting codes/scripts for analyzing financial data, building financial models and building automation system for Finance, Business practices. 
+My major interest is Financial Technology, Financial Data Analytics, Machine Learning. Specifically I have been developing programs and writting codes/scripts for analyzing financial data, building financial models and building automation system for Finance, Business practices. 
 
 I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark.
 
 Feel free to contact me if you are interested in any of my projects and wish to learn more details of them :)  
 
 
-### Markdown
+### Most recent project: Automatic Financial Reporting System
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+I developed the Automatic Financial Reporting System when I work as Business Intelligence Analyst at a Fintech company in Toronto. The Company focus on foreign exchange trading and providing global payroll services to clients who have the demands to pay employee globally with different currencies.
+
+Some financial analysts in Business Analytics department have monthly financial reporting works, they will have to calculate and generate monthly reports/statements on how much we should pay to sales persons and agencies based on their monthly performance. The performance is evaluated and calculated using several agree
+
+
 
 ```markdown
 Syntax highlighted code block
