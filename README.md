@@ -16,7 +16,9 @@ I developed the Automatic Financial Reporting System when I work as Business Int
 
 Some financial analysts in Business Analytics department have monthly financial reporting works, they will have to calculate and generate monthly reports/statements on how much we should pay to sales persons and agencies based on their monthly performance. The performance is evaluated and calculated using several agree
 
+![Image of Yaktocat](https://github.com/MonsieurrD/monsieurrd.github.io/blob/master/RS-Cover.jpg)
 
+![Image of Yaktocat](https://github.com/MonsieurrD/monsieurrd.github.io/blob/master/RS-List.jpg)
 
 ```markdown
 Syntax highlighted code block
