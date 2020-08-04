@@ -20,7 +20,7 @@ My solution is a combination of R, Python, Alteryx, Tableau Prep, Tableau Server
 
 The idea is to achieve an all back-end hands-free automatic data ETL + reporting pipeline
 
-**One Example of Data Stream:**
+**One Example of Data Flow:**
 
 ![Image of Yaktocat](https://monsieurrd.github.io/Prep1.png)
 
@@ -33,7 +33,7 @@ The idea is to achieve an all back-end hands-free automatic data ETL + reporting
 
 
 
-_more projects will come_
+_**More projects will come:)**_
 
 
 
