@@ -33,7 +33,7 @@ The idea is to achieve an all back-end hands-free automatic data ETL + reporting
 
 
 
-_**More projects will come:)**_
+_**More projects will come :)**_
 
 
 
