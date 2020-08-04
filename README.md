@@ -10,7 +10,7 @@ Feel free to contact me if you are interested in any of my projects and wish to 
 
 
 
-##### Recent Project: Automatic Financial Reporting System
+### Recent Project: Automatic Financial Reporting System
 
 I developed the Automatic Financial Reporting System when I work as Business Intelligence Analyst at a Fintech company in Toronto. The Company focus on foreign exchange trading and providing global payroll services to clients who have the demands to pay employee globally with different currencies.
 
