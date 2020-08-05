@@ -22,23 +22,23 @@ The idea is to achieve an all back-end hands-free automatic data ETL + reporting
 
 **Sample Data Flow:**
 
-![Image of Yaktocat](https://monsieurrd.github.io/Prep1.png)
+![Image ETL1](https://monsieurrd.github.io/Prep1.png)
 
 
 **End Product:**
 
-![Image of Yaktocat](https://monsieurrd.github.io/RS-Cover.jpg)
+![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
 
-![Image of Yaktocat](https://monsieurrd.github.io/RS-List.jpg)
+![Image ETL1](https://monsieurrd.github.io/RS-List.jpg)
 
 
 #### Project: Video Games Recommendation System 
 
 I completed this Video Games Recommendation System on STEAM games dataset from Kaggle during my MSc study. The system is able to offer real-time recommendation on video games to users and predict the time the user will spend on specific game. The back-end of the system consists of R and SparkR(Apache Spark implemented from R Environment) and front-end is built using R Shiny. The major machine learning algorithms used is User-Based Collaborative Filtering.
 
-![Image of Yaktocat](https://monsieurrd.github.io/Front-Rec.png)
+![Image Rec](https://monsieurrd.github.io/Front-Rec.png)
 
-![Image of Yaktocat](https://monsieurrd.github.io/Back-Rec.png)
+![Image Rec](https://monsieurrd.github.io/Back-Rec.png)
 
 _**More projects will come :)**_
 
