@@ -1,8 +1,6 @@
 ### Welcome to my personal site! 
 
-Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss
-
-Feel free to contact me if you are interested in any of my projects and wish to learn more details of them :) 
+Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss. Feel free to contact me if you are interested in any of my projects and wish to learn more details of them :) 
 
 **About Me**
 
