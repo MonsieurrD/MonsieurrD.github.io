@@ -9,7 +9,7 @@ My major interests are Financial Technology, Data Science for Finance. I usually
 
 ##### Recent Project: Automatic Financial Reporting System
 
-**Sample Statement Outputs: **
+Sample Statement Outputs:
 
 ![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
 
@@ -23,7 +23,7 @@ So I revised and improved previous data processing procedures & logics and built
 
 The idea is to achieve an all back-end hands-free automatic data ETL + reporting system.
 
-**Sample Data Flow: **
+Sample Data Flow:
 
 ![Image ETL1](https://monsieurrd.github.io/Prep1.png)
 
@@ -32,7 +32,7 @@ The idea is to achieve an all back-end hands-free automatic data ETL + reporting
 
 I completed this Video Games Recommendation System on STEAM games dataset from Kaggle during my MSc study. The system is able to offer real-time recommendation on video games to users and predict the time the user will spend on specific game. 
 
-**Dataset Sample:**
+Dataset Sample:
 
 ![Image Rec](https://monsieurrd.github.io/Data-Rec.png)
 
