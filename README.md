@@ -2,15 +2,13 @@
 
 Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss. 
 
-My major interests are Financial Technology, Financial Data Analytics, Machine Learning. I have been developing programs and writting codes/scripts for analyzing financial data, building financial models and building automation system for Finance, Business practices. 
-
-I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark.
+My major interests are Financial Technology, Financial Data Analytics, Machine Learning. I have been developing programs and writting codes/scripts for analyzing financial data, building financial models and building automation system for Finance, Business practices. I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark.
 
 Feel free to contact me if you are interested in any of my projects and wish to learn more details of them :)  
 
 
 
-##### Project at work: Automatic Financial Reporting System
+#### Project at work: Automatic Financial Reporting System
 
 I developed the Automatic Financial Reporting System when I work as Business Intelligence Analyst at a Fintech company in Toronto. The Company focus on foreign exchange trading and providing global payroll services to clients who have the demands to pay employee globally with different currencies. So they will have monthly financial reporting requirements, they used to rely on manually pull data from SQL Server, Tableau and Salesforce Database and then process transaction data and batch generate statements/reports in Excel VBA. 
 
