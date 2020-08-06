@@ -39,7 +39,7 @@ I completed this Video Games Recommendation System on STEAM games dataset from K
 ![Image Rec](https://monsieurrd.github.io/Data-Rec.png)
 
 
-**The back-end of the system consists of R and SparkR(Apache Spark implemented from R Environment) and front-end is built using R Shiny. The major machine learning algorithms used is User-Based Collaborative Filtering:**
+The back-end of the system consists of R and SparkR(Apache Spark implemented from R Environment) and front-end is built using R Shiny. The major machine learning algorithms used is User-Based Collaborative Filtering:
 
 ![Image Rec](https://monsieurrd.github.io/Front-Rec.png)
 
