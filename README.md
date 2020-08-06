@@ -1,4 +1,4 @@
-## Welcome to my Personal Site! 
+### Welcome to my personal site! 
 
 Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss. 
 
