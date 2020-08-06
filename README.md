@@ -11,6 +11,12 @@ My major interests are Financial Technology, Data Science for Finance. I usually
 
 ##### Recent Project: Automatic Financial Reporting System
 
+**Sample Statement Outputs: **
+
+![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
+
+![Image ETL1](https://monsieurrd.github.io/RS-List.jpg)
+
 I developed the Automatic Financial Reporting System when I work as Business Intelligence Analyst at a Fintech company in Toronto. The Company focus on foreign exchange trading and providing global payroll services to clients who have the demands to pay employee globally with different currencies. So they will have monthly financial reporting requirements, they used to rely on manually pull data from SQL Server, Tableau and Salesforce Database and then process transaction data and batch generate statements/reports in Excel VBA. 
 
 However, as data amount getting larger and business rules/calculations applied to process data getting very complex sometimes, the Excel will return errors and undesired results, many manual works and corrections were thus needed and can be time consuming.
@@ -19,16 +25,9 @@ So I revised and improved previous data processing procedures & logics and built
 
 The idea is to achieve an all back-end hands-free automatic data ETL + reporting system.
 
-**Sample Data Flow:**
+**Sample Data Flow: **
 
 ![Image ETL1](https://monsieurrd.github.io/Prep1.png)
-
-
-**End Product:**
-
-![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
-
-![Image ETL1](https://monsieurrd.github.io/RS-List.jpg)
 
 
 ##### Research Project: Video Games Recommendation System 
