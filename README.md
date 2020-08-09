@@ -1,12 +1,15 @@
 ### Welcome to my site! 
 
-Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss. Feel free to contact me if you are interested in any of my projects and wish to learn more details of them :) 
+Recently I have started uploading/migrating my previous and current projects to Github as a better place to share and discuss 
 
 **About Me**
 
-My major interests are Financial Technology, Data Science for Finance. I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark. 
+My professional interests are Financial Technology, Data Science for Finance. I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark. 
+
+I have lived in China, UK, US and now residing in Canada. I love travelling, watching & collecting movies for leisure time :)
 
 ![Image AM](https://monsieurrd.github.io/Swiss1.jpeg)
+  _* Taken during train crossing Italy-Switzerland border, Winter 2019 *_
 
 ##### Recent Project: Automatic Financial Reporting System
 
