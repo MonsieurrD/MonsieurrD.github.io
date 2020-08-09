@@ -9,7 +9,7 @@ My professional interests are Financial Technology, Data Science for Finance. I 
 I have lived in China, UK, US and now residing in Canada. I love travelling, watching & collecting movies for leisure time :)
 
 ![Image AM](https://monsieurrd.github.io/Swiss1.jpeg)
-  _* Taken during train crossing Italy-Switzerland border, Winter 2019 *_
+ _* Taken during train crossing Italy-Switzerland border, Winter 2019 *_
 
 ##### Recent Project: Automatic Financial Reporting System
 
