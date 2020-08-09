@@ -6,6 +6,7 @@ Recently I have started uploading/migrating my previous and current projects to 
 
 My major interests are Financial Technology, Data Science for Finance. I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark. 
 
+![Image AM](https://monsieurrd.github.io/Swiss1.jpg)
 
 ##### Recent Project: Automatic Financial Reporting System
 
