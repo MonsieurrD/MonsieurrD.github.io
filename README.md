@@ -6,7 +6,7 @@ Recently I have started uploading/migrating my previous & current projects to Gi
 
 My professional interests are Financial Technology, Data Science for Finance. I usually program in R, Python, SQL with also frequent usage of HTML, Tableau, Alteryx, Bash, JavaScript, VBA, Spark. 
 
-I have lived in China, UK, US and now residing in Canada. I love travelling, watching & collecting movies for leisure time :)
+I have lived in China, UK, US and now residing in Canada. I love travelling, collecting movies for leisure time :)
 
 ![Image AM](https://monsieurrd.github.io/Swiss1.jpeg)
  _* Taken during train crossing Italy-Switzerland border, Winter 2019 *_
