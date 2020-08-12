@@ -17,11 +17,11 @@ I developed the system when I work as Business Intelligence Analyst at a Fintech
 
 So I built the new data ETL pipeline + reporting system using a combination of R, Python, Alteryx, Tableau Prep, Tableau Server. The idea is to achieve an all back-end hands-free automatic financial reporting system. 
 
-Now the new system helps the analysts to complete the monthly reporting tasks in 1-2 days with almost all the processes automated.
+Now the new system helps the analysts to complete the monthly reporting tasks in 1-2 days with most processes automated.
 
 Sample Statement Output:
-![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
-![Image ETL1](https://monsieurrd.github.io/RS-List.jpg)
+![Image ETL1](https://monsieurrd.github.io/RS-Cover-1.jpg)
+![Image ETL1](https://monsieurrd.github.io/RS-List-1.jpg)
 
 Part of Program Data Flow:
 ![Image ETL1](https://monsieurrd.github.io/Prep1.png)
