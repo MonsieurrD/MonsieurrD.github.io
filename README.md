@@ -13,20 +13,17 @@ I have lived in China, UK, US and now residing in Canada. I love travelling, col
 
 ##### Recent Project: Automatic Financial Reporting System
 
-I developed the Automatic Financial Reporting System when I work as Business Intelligence Analyst at a Fintech company in Toronto. The Company focus on foreign exchange trading and providing global payroll services to clients who have the demands to pay employee globally with different currencies. So they will have monthly financial reporting requirements, they used to rely on manually pull data from SQL Server, Tableau and Salesforce Database and then process transaction data and batch generate statements/reports in Excel VBA. 
+I developed the system when I work as Business Intelligence Analyst at a Fintech company in Toronto which focus on foreign exchange trading and global payroll services. They used to rely on manual Tableau and Excel processes and for data processing and reporting. However, there will be errors when input data is too large for Excel to process and the complete data processing, statement generation processes can take analysts 5-7 days to accomplish and then send out the statements to clients at the beginning of each month.
 
-** Sample Output **
+So I built the new data ETL pipeline + reporting system using a combination of R, Python, Alteryx, Tableau Prep, Tableau Server. The idea is to achieve an all back-end hands-free automatic financial reporting system. 
+
+Now the new system helps the analysts to complete the monthly reporting tasks in 1-2 days with almost all the processes automated.
+
+Sample Statement Output:
 ![Image ETL1](https://monsieurrd.github.io/RS-Cover.jpg)
 ![Image ETL1](https://monsieurrd.github.io/RS-List.jpg)
 
-However, as data amount getting larger and business rules/calculations applied to process data getting very complex sometimes, the Excel will return errors and undesired results, many manual works and corrections were thus needed and can be time consuming.
-
-So I revised and improved previous data processing procedures & logics and built the new data processing ETL pipeline and reporting system with a combination of R, Python, Alteryx, Tableau Prep, Tableau Server.
-
-The idea is to achieve an all back-end hands-free automatic data ETL + reporting system.
-
-Sample Data Flow:
-
+Part of Program Data Flow:
 ![Image ETL1](https://monsieurrd.github.io/Prep1.png)
 
 
